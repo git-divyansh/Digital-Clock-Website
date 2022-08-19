@@ -1,0 +1,81 @@
+.card{
+  background-color: rgba(238, 238, 238, 0.993);
+}
+.btn{
+  background-color: rgb(27, 130, 208);
+}
+
+.dropdown-menu{
+  text-align: left;                     
+}
+
+.navbar{
+  height: 50px;
+}
+
+.container-fluid{
+    background-color: gold;
+}
+
+.one{
+  height: 50px;
+  width: 58.9px;
+  transition: all 1s ease-out;
+  /* border-radius: 5px; */
+  
+}
+
+.two{
+  height: 50px;
+  transition: all 1s ease-out;
+  /* border-radius: 5px; */
+}
+
+.one:hover{
+  background-color: #BE9617
+  ;
+  /* height: 50px; */
+  width: 58.9px;
+}
+
+.two:hover{
+  background-color: #BE9617
+  ;
+  /* height: 50px; */
+  width: 90px;
+}
+
+.container{
+  height: 630px;
+  width: 510px;
+  align-self:flex-start;
+}
+
+.back-image{
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-y: 10px;
+  background-position-x: 40px;
+
+}
+
+.body-image{
+  background-image: url("images/blue4.jpg");
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+
+body{
+  overflow: hidden;
+}
+
+.card{
+  background-color: #f3d61d;
+  top:40px;
+  height: 350px;
+  box-shadow:1px 1px 50px black;
+}
+
